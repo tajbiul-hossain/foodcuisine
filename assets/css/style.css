@@ -137,15 +137,15 @@ h4 {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    padding-right: 1rem;
     color: white;
+    font-weight: 500;
+    padding-right: 1rem;
     padding-top: .8rem;
 }
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: #265077;
-    font-weight: 700;
+    color: #276eb1;
 }
 
 .navbar-toggler {
